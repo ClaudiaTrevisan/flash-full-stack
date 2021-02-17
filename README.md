@@ -1,8 +1,10 @@
 # flash-full-stack
 
-Desafio aceito!  
-Este repo contém muitas linhas de código mas o resultado você pode ver e usar aqui:  
-deploy surge:  
+Para visualizar e testar a aplicação você deve:  
+dar um git clone deste repo na sua maquina,  
+digitar o comando "yarn install" dentro de cada pasta do projeto  
+e rodar localmente com o comando "yarn start" dentro de cada pasta do projeto (um terminal para cada pasta).
+
   
 Tecnologias utilizadas:  
 Front end:  
