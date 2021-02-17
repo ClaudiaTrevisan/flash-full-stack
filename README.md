@@ -18,3 +18,7 @@ Back end:
 -Express  
 -MongoDB (Atlas)  
 -Mongoose  
+  
+  OBS: Devido a dificuldades de versões do jest no meu node houve um atraso no desenvolvimento   
+  e por conta disso algumas decisões tiveram que ser tomadas com relação a interface onde  
+  foi implementado styled components para configurar algumas partes.  
